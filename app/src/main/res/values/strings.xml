@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies Demo App</string>
+    <string name="type">Type: </string>
+    <string name="loading">Loading....</string>
+    <string name="status">Status</string>
+    <string name="tittle">Tittle</string>
+    <string name="summary">Summary</string>
+    <string name="premiered">Premiered On: </string>
+    <string name="language">Language: </string>
+    <string name="indevelop">In Development</string>
+    <string name="under_develop">Currently In Development!</string>
+    <string name="nodata">No Data Available</string>
+    <string name="noInternet">Please check your internet connection!</string>
+</resources>
